@@ -3,7 +3,6 @@
 
 Certainly! Below is a README template for your GitHub repository:
 
-```markdown
 # File Cleanup and Organization Script
 
 This Python script organizes files in a specified directory based on their extensions into different folders. Additionally, it cleans up unnecessary and empty files and sets icons for the organized folders.
